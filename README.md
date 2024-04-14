@@ -1,6 +1,6 @@
 
 
-# GT-Cadastro
+# GUI-Cadastro
 Este projeto é uma aplicação básica de formulário de cadastro desenvolvida em Python. Ele permite aos usuários registrar e fazer login suas informações, como nome, e-mail e senha, que são armazenadas em um banco de dados MySQL. A aplicação inclui uma interface gráfica simples, construída usando customtkinter, proporcionando uma experiência amigável ao usuário. Este projeto foi criado como parte do processo de aprendizado para entender os conceitos fundamentais de interação com banco de dados e desenvolvimento de interfaces gráficas em Python
 
 <div align='center'>
