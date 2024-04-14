@@ -1,0 +1,4 @@
+customtkinter
+CTkMessagebox
+mysql
+mysql.connector
