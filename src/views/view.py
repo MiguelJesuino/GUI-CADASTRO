@@ -1,9 +1,22 @@
-import time
-from ..model.modelo import Usuario
-from ..controller.dao import UsuarioDAO
+import sys
+
+# Adiciona o diretório raiz do projeto ao sys.path
+try:
+    import sys
+    sys.path.append(r"../../src")
+except ModuleNotFoundError:
+    ...
+
+for i in sys.path:
+    print(i)
+# Agora você pode importar os módulos normalmente
+
+from model.modelo import Usuario
+from controller.dao import UsuarioDAO
 import tkinter as tk
 import customtkinter as ctk
 from CTkMessagebox import CTkMessagebox
+
 
 
 ctk.set_appearance_mode('System')

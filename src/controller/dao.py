@@ -1,4 +1,10 @@
-from connection import connection_factory
+try:
+    import sys
+    sys.path.append(r"../../src")
+except ModuleNotFoundError:
+    ...
+
+from controller.connection import connection_factory
 import mysql.connector
 
 

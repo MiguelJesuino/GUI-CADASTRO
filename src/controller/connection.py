@@ -1,6 +1,5 @@
 import mysql.connector
 
-
 class connection_factory():
     def __init__(self):
         self.host = '127.0.0.1'
