@@ -5,8 +5,6 @@ Este projeto é uma aplicação básica de formulário de cadastro desenvolvida 
 
 ## Como Usar
 
-### Requisitos
-
 Para usar este programa, você precisará dos seguintes requisitos:
 
 - Python 3.12 instalado
@@ -50,7 +48,7 @@ Para usar este programa, você precisará dos seguintes requisitos:
 
 ## Contribuição
 
-Contribuições são bem-vindas! Se você tiver sugestões de melhorias, correções de bugs ou novos recursos, fique à vontade para abrir uma issue ou enviar um pull request.
+Contribuições são bem-vindas! Este projeto foi desenvolvido para fins didáticos. fique à vontade para abrir uma issue ou enviar um pull request.
 
 ## Licença
 
