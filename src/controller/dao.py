@@ -1,6 +1,6 @@
 try:
     import sys
-    sys.path.append(r"../../src")
+    sys.path.append(r"../src")
 except ModuleNotFoundError:
     ...
 
