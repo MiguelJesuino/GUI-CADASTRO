@@ -49,7 +49,3 @@ Para usar este programa, você precisará dos seguintes requisitos:
 ## Contribuição
 
 Contribuições são bem-vindas! Este projeto foi desenvolvido para fins didáticos. fique à vontade para abrir uma issue ou enviar um pull request.
-
-## Licença
-
-Este projeto é licenciado sob a [MIT License](https://opensource.org/licenses/MIT).
